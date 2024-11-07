@@ -8,7 +8,7 @@ ONLY CN L7 DOS BUT C++
 
 一键指令
 ------
-`apt install git g++ gcc clang -y`  
+`apt install git clang -y`  
 `git clone https://github.com/youlipeierges/ocl7dosbutc-`  
 `cd ocl7dosbutc-`  
 `g++ ocl7dos.cpp -o ocdos`  
