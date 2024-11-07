@@ -11,5 +11,5 @@ ONLY CN L7 DOS BUT C++
 `apt install g++ gcc clang -y`  
 `git clone https://github.com/youlipeierges/ocl7dosbutc-`  
 `cd ocl7dosbutc-`  
-`g++ ocdos -o ocdos`  
+`g++ ocl7dos.cpp -o ocdos`  
 `./ocdos -h`  
